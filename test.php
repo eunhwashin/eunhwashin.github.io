@@ -1,7 +1,7 @@
 <?php
-  $name = $_GET['nickname'];
-  $chk = $_GET['chk'];
-  $nonchk = $_GET['nonchk'];
+  $name = $_POST['nickname'];
+  $chk = $_POST['chk'];
+  $nonchk = $_POST['nonchk'];
 ?>
 
 
