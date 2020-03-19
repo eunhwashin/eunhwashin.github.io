@@ -1,7 +1,6 @@
 <?php
-  $name = $_POST['nickname'];
+  $name = $_POST['name'];
   $chk = $_POST['chk'];
-  $nonchk = $_POST['nonchk'];
 ?>
 
 
