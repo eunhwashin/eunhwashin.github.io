@@ -10,7 +10,7 @@
   <meta charset="utf-8">
     <title>HTML</title>
     <style>
-      * {font-size: 18px; margin: 50px; padding:0;}
+      * {font-size: 18px; margin:20px 50px; padding:0;}
       p > span {font-size:20px; font-weight: bold;}
     </style>
   </head>
